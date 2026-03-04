@@ -77,6 +77,15 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sakthivel-26&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sakthivel-26&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+
+---
+
 ## 🌐 Portfolio & Links
 
 - 🌍 Portfolio:https://sakthivel26.vercel.app/
@@ -88,3 +97,4 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 ⭐ Thanks for visiting my GitHub profile!  
 ☁️ Always learning, building, and growing as a Cloud Engineer.
+
