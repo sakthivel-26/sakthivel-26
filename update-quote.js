@@ -14,7 +14,7 @@ async function updateQuote() {
 <!--ENDS_HERE_QUOTE_CARD-->
 `;
 
-    const readmePath = './Readme.md';
+    const readmePath = './README.md';
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
 
     readmeContent = readmeContent.replace(
