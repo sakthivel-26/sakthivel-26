@@ -28,8 +28,8 @@ jobs:
 
       - name: 📤 Commit and push changes
         run: |
-          git config --global user.name 'selvaganesh19'
-          git config --global user.email 'selvavelayutham395@gmail.com'
+          git config --global user.name 'sakthivel-26'
+          git config --global user.email 'sakthivelvenkat2619@gmail.com'
 
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           
@@ -38,7 +38,7 @@ jobs:
           
           # Stage and commit changes if any
           git add README.md
-          git diff --cached --quiet || git commit --author="selvaganesh19 <selvavelayutham395@gmail.com>" -m "🔁 Update README with daily quote"
+          git diff --cached --quiet || git commit --author="sakthivel-26 <sakthivelvenkat2619@gmail.com>" -m "🔁 Update README with daily quote"
           
           # Push changes
           git push origin main
