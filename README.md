@@ -93,12 +93,14 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 - 📧 Email: [sakthivelvenkat2619@gmail.com](mailto:sakthivelvenkat2619@gmail.com?subject=Cloud%20Engineer%20Opportunity)
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=header"/>
-</p>
 
 <h2 align="left">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Beverly%20Sills&quote=There%20are%20no%20shortcuts%20to%20any%20place%20worth%20going.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
