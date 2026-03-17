@@ -100,11 +100,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=Do%20not%20fight%20with%20pigs%20-%20you%20will%20be%20smeared%20in%20mud%20but%20the%20pig%20will%20like%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=It%20matters%20not%20who%20you%20love%2C%20where%20you%20love%2C%20why%20you%20love%2C%20when%20you%20love%20or%20how%20you%20love%2C%20it%20matters%20only%20that%20you%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
