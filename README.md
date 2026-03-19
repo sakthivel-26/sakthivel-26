@@ -102,11 +102,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=Be%20of%20good%20cheer%20about%20death%2C%20and%20know%20this%20of%20a%20truth%2C%20that%20no%20evil%20can%20happen%20to%20a%20good%20man%2C%20either%20in%20life%20or%20after%20death.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=F.%20Scott%20Fitzgerald&quote=Sometimes%20it%20is%20harder%20to%20deprive%20oneself%20of%20a%20pain%20than%20of%20a%20pleasure.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
