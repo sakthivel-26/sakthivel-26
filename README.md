@@ -153,11 +153,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=W.P.%20Kinsella&quote=You%20have%20to%20make%20time%2C%20even%20for%20something%20as%20universal%20as%20staring%20at%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=One%20mistake%20does%20not%20have%20to%20rule%20a%20person's%20entire%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
