@@ -157,11 +157,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pablo%20Picasso&quote=Only%20put%20off%20until%20tomorrow%20what%20you%20are%20willing%20to%20die%20having%20left%20undone.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Success%20comes%20from%20knowing%20that%20you%20did%20your%20best%20to%20become%20the%20best%20that%20you%20are%20capable%20of%20becoming.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
