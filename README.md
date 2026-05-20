@@ -164,11 +164,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sonia%20Ricotti&quote=When%20you%20say%20yes%20to%20change%2C%20you%20are%20choosing%20to%20navigate%20that%20path%20peacefully%20and%20happily%20and%20see%20where%20it%20takes%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jonathan%20Swift&quote=Every%20man%20desires%20to%20live%20long%2C%20but%20no%20man%20wishes%20to%20be%20old.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
