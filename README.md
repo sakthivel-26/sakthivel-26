@@ -166,11 +166,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=It%20is%20not%20as%20important%20how%20we%20start%2C%20but%20how%20we%20finish.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Tukey&quote=The%20greatest%20value%20of%20a%20picture%20is%20when%20it%20forces%20us%20to%20notice%20what%20we%20never%20expected%20to%20see.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
