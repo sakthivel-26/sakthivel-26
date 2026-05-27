@@ -171,11 +171,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=If%20you%20are%20depressed%2C%20you%20are%20living%20in%20the%20past.%20If%20you%20are%20anxious%2C%20you%20are%20living%20in%20the%20future.%20if%20you%20are%20at%20peace%2C%20you%20are%20living%20in%20the%20present.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Forget%20mistakes.%20Forget%20failure.%20Forget%20everything%20except%20what%20you%20are%20going%20to%20do%20now%20and%20do%20it.%20Today%20is%20your%20lucky%20day!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
