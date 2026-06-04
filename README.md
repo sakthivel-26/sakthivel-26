@@ -179,11 +179,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sathya%20Sai%20Baba&quote=Anger%2C%20ego%2C%20jealousy%20are%20the%20biggest%20diseases%2CKeep%20yourself%20aloof%20from%20these%20three%20diseases.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Thomas%20Jefferson&quote=Nothing%20gives%20one%20person%20so%20much%20advantage%20over%20another%20as%20to%20remain%20always%20cool%20and%20unruffled%20under%20all%20circumstances.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
