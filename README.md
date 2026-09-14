@@ -281,11 +281,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Maraboli&quote=If%20you%20hang%20out%20with%20chickens%2C%20you're%20going%20to%20cluck%20and%20if%20you%20hang%20out%20with%20eagles%2C%20you're%20going%20to%20fly.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=He%20suffers%20more%20than%20necessary%2C%20who%20suffers%20before%20it%20is%20necessary.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
