@@ -306,11 +306,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Kahlil%20Gibran&quote=Yesterday%20is%20but%20today's%20memory%2C%20tomorrow%20is%20today's%20dream.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Luther&quote=You%20are%20not%20only%20responsible%20for%20what%20you%20say%2C%20but%20also%20for%20what%20you%20do%20not%20say.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
