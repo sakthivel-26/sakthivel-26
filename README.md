@@ -316,11 +316,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Colin%20Powell&quote=Always%20show%20more%20kindness%20than%20seems%20necessary%20because%20the%20person%20receiving%20it%20needs%20it%20more%20than%20you%20will%20ever%20know.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=The%20universe%20doesn't%20allow%20perfection.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
