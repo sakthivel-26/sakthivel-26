@@ -330,11 +330,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=We%20shape%20clay%20into%20a%20pot%2C%20but%20it%20is%20the%20emptiness%20inside%20that%20holds%20whatever%20we%20want.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Jon%20Kabat-Zinn&quote=If%20we%20are%20honest%20with%20ourselves%2C%20most%20of%20us%20will%20have%20to%20admit%20that%20we%20live%20out%20our%20lives%20in%20an%20ocean%20of%20fear.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
