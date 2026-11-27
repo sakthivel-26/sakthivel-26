@@ -354,11 +354,13 @@ I enjoy working on cloud infrastructure, deploying applications, and learning De
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=It%20is%20not%20uncommon%20for%20people%20to%20spend%20their%20whole%20life%20waiting%20to%20start%20living.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=Don't%20try%20to%20be%20young.%20Just%20open%20your%20mind.%20Stay%20interested%20in%20stuff.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
